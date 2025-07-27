@@ -1,5 +1,5 @@
-streamlit
-tensorflow
+streamlit==1.29.0
+tensorflow==2.11.0
 Pillow
 numpy
 pygame
