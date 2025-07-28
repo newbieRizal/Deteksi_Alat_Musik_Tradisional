@@ -11,4 +11,4 @@ Sebuah aplikasi berbasis **Machine Learning** dan **Streamlit** untuk melakukan 
 
 ## 🚀 Demo Aplikasi
 
-🔗 [Klik untuk mencoba aplikasinya di Streamlit Cloud](https://deteksi-alat-musik)
+🔗 [Klik untuk mencoba aplikasinya di Streamlit Cloud](https://deteksialatmusiktradisional.streamlit.app/)
